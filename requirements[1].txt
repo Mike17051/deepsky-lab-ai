@@ -5,3 +5,4 @@ pandas
 plotly
 requests
 lightkurve
+plotly>=5.0.0
